@@ -23,7 +23,7 @@ The project not only measures overall popularity but also identifies which langu
 
 - Matplotlib: Created visualizations to illustrate popularity trends across time.
 
-### Key Findings
+## Key Findings
 - Produced a cleaned and filtered dataset segmented by language and quarter (2019–2024).
 
 - Generated a visualization of the top 10 programming languages, highlighting their popularity trends.
@@ -31,7 +31,7 @@ The project not only measures overall popularity but also identifies which langu
 - Identified the top 5 fastest-growing and top 5 fastest-declining languages.
 
 
-### Business Impact
+## Business Impact
 The Expected output includes language, quarter, post_count, percentage_of_total, and growth_rate.
 
 This provided a structured dataset with post counts, growth rates, and share of total activity, enabling clear trend tracking.
